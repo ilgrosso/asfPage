@@ -17,7 +17,6 @@
   specific language governing permissions and limitations
   und
 -->
-<!-- $Id: block-servlet-service.xml 697547 2008-09-21 16:52:48Z reinhard $ -->
 <beans xmlns="http://www.springframework.org/schema/beans"
        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
        xmlns:servlet="http://cocoon.apache.org/schema/servlet"
