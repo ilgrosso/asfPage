@@ -58,6 +58,7 @@
 
 	      <h3>External resources</h3>
 	      <ul>
+		<li><a href="http://connid.googlecode.com">ConnId</a></li>
 		<li><a href="http://www.hippocms.org">Hippo CMS</a></li>
 		<li><a href="http://blog.tirasa.net/blogs/index.php/ilgrosso/">My blog</a></li>
 		<li><a href="http://www.tirasa.net">My company</a></li>
