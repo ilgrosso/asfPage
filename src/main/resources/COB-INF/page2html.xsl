@@ -66,10 +66,17 @@
 	      <div class="sidebarbottom">&#160;</div>
 
 	      <p style="text-align:center">
-		<a href='https://www.ohloh.net/accounts/134694?ref=Detailed'>
-		  <img alt='Ohloh profile for Francesco Chicchiricco' height='35' src='https://www.ohloh.net/accounts/134694/widgets/account_detailed.gif' width='191' />
+		<a href="https://www.ohloh.net/accounts/134694?ref=Detailed">
+		  <img alt="Ohloh profile for Francesco Chicchiricco" height="35" src="https://www.ohloh.net/accounts/134694/widgets/account_detailed.gif" width="191" />
 		</a>
 	      </p>
+
+	      <p style="text-align:center">
+		<a href="http://www.abruzzoturismo.it//tourism/index.php?lan=en" target="_blank">
+		  <img src="images/AbruzzoTurismoLogo.gif"/>
+		</a>
+	      </p>
+
 	    </div>
 	    
 	    <div style="clear: both;">&#160;</div>
