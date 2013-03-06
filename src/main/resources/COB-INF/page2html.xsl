@@ -58,7 +58,7 @@
 
 	      <h3>External resources</h3>
 	      <ul>
-		<li><a href="http://connid.googlecode.com">ConnId</a></li>
+		<li><a href="http://tirasa.github.com/ConnId/">ConnId</a></li>
 		<li><a href="http://tirasa.github.com/HippoCocoonToolkit/">Hippo Cocoon Toolkit</a></li>
 		<li><a href="https://github.com/Tirasa/OpenJPA-Azure">OpenJPA Azure</a></li>
 		<li><a href="http://blog.tirasa.net/blogs/index.php/ilgrosso/">My blog</a></li>
