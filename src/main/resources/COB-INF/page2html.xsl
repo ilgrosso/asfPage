@@ -53,6 +53,7 @@
 	      <ul>
 		<li><a href="http://cocoon.apache.org/">Cocoon</a></li>
 		<li><a href="http://syncope.apache.org/">Syncope</a></li>
+		<li><a href="http://olingo.incubator.apache.org/">Olingo</a></li>
 	      </ul>
 	      <div class="sidebarbottom">&#160;</div>
 
@@ -60,7 +61,7 @@
 	      <ul>
 		<li><a href="http://tirasa.github.com/ConnId/">ConnId</a></li>
 		<li><a href="http://tirasa.github.com/HippoCocoonToolkit/">Hippo Cocoon Toolkit</a></li>
-		<li><a href="https://github.com/Tirasa/OpenJPA-Azure">OpenJPA Azure</a></li>
+		<li><a href="https://github.com/MSOpenTech/ODataJClient">ODataJClient</a></li>
 		<li><a href="http://blog.tirasa.net/blogs/index.php/ilgrosso/">My blog</a></li>
 		<li><a href="http://www.tirasa.net">My company</a></li>
 	      </ul>
