@@ -62,7 +62,7 @@
 		<li><a href="http://tirasa.github.com/ConnId/">ConnId</a></li>
 		<li><a href="http://tirasa.github.com/HippoCocoonToolkit/">Hippo Cocoon Toolkit</a></li>
 		<li><a href="https://github.com/MSOpenTech/ODataJClient">ODataJClient</a></li>
-		<li><a href="http://blog.tirasa.net/blogs/index.php/ilgrosso/">My blog</a></li>
+		<li><a href="http://blog.tirasa.net/author/ilgrosso/index.html">My blog</a></li>
 		<li><a href="http://www.tirasa.net">My company</a></li>
 	      </ul>
 	      <div class="sidebarbottom">&#160;</div>
