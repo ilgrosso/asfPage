@@ -36,6 +36,7 @@ under the License.
   </properties>
 
   <dependencies>
+    
     <dependency>
       <groupId>org.apache.cocoon.servlet</groupId>
       <artifactId>cocoon-servlet</artifactId>
