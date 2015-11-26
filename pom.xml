@@ -23,10 +23,10 @@ under the License.
   <packaging>jar</packaging>
   
   <artifactId>ilgrosso</artifactId>
-  <groupId>org.apache.people</groupId>
+  <groupId>org.apache.home</groupId>
   <version>1.0-SNAPSHOT</version>
   <name>ilgrosso</name>
-  <description>ilgrosso's ASF page at https://people.apache.org/~ilgrosso/</description>
+  <description>ilgrosso's ASF page at https//home.apache.org/~ilgrosso/</description>
 
   <properties>
     <cocoon.version>3.0.0-beta-1-SNAPSHOT</cocoon.version>

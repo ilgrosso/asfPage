@@ -23,7 +23,7 @@
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-2.5.xsd
                            http://cocoon.apache.org/schema/servlet http://cocoon.apache.org/schema/servlet/cocoon-servlet-1.0.xsd">
 
-  <bean name="org.apache.people.ilgrosso.service" class="org.apache.cocoon.servlet.XMLSitemapServlet">
+  <bean name="org.apache.home.ilgrosso.service" class="org.apache.cocoon.servlet.XMLSitemapServlet">
     <servlet:context mount-path="" context-path="blockcontext:/ilgrosso/"/>
   </bean>
 
