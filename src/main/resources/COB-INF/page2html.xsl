@@ -55,6 +55,7 @@
 		<li><a href="http://cxf.apache.org/">CXF</a></li>
 		<li><a href="http://olingo.apache.org/">Olingo</a></li>
 		<li><a href="http://openjpa.apache.org/">OpenJPA</a></li>
+		<li><a href="http://ponymail.incubator.apache.org/">Pony Mail</a></li>
 		<li><a href="http://syncope.apache.org/">Syncope</a></li>
 	      </ul>
 	      <div class="sidebarbottom">&#160;</div>
