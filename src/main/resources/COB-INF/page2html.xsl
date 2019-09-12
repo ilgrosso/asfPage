@@ -70,8 +70,8 @@
 	      <div class="sidebarbottom">&#160;</div>
 
 	      <p style="text-align:center">
-		<a href="https://www.ohloh.net/accounts/134694?ref=Detailed">
-		  <img alt="Ohloh profile for Francesco Chicchiricco" height="35" src="https://www.ohloh.net/accounts/134694/widgets/account_detailed.gif" width="191" />
+		<a href="https://www.openhub.net/accounts/134694?ref=Detailed">
+		  <img alt="OpenHub profile for Francesco Chicchiricco" height="35" src="https://www.openhub.net/accounts/134694/widgets/account_detailed.gif" width="191" />
 		</a>
 	      </p>
 
