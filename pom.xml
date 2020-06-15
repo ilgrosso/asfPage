@@ -30,7 +30,7 @@ under the License.
 
   <properties>
     <cocoon.version>3.0.0-beta-1-SNAPSHOT</cocoon.version>
-    <spring.version>3.1.0.RELEASE</spring.version>
+    <spring.version>5.2.7.RELEASE</spring.version>
 
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
